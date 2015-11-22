@@ -58,6 +58,6 @@ run_analysis <- function()
 
 
 	## Writing to the file tidydatasetfinal.txt
-	write.table(tidydatasetwithactivitynames, file="tidydatasetfinal.txt", sep="\t", row.name=FALSE)
+	write.table(tidydatasetwithactivitynames, file="tidydatasetfinal.txt", sep=" ", row.name=FALSE)
 
 }
