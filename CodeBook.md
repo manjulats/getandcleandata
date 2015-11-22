@@ -74,11 +74,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 1.activity_id	
 2.subject_id	
 3.tBodyAccMagnitude-mean	
-4.tBodyAccMagnitude-std	
-5.tGravityAccMagnitude-mean	
+4.tBodyAccMagnitude-std
+5.tGravityAccMagnitude-mean
 6.tGravityAccMagnitude-std	
 7.tBodyAccJerkMagnitude-mean	
-8.tBodyAccJerkMagnitude-std	
+8.tBodyAccJerkMagnitude-std
 9.tBodyGyroMagnitude-mean	
 10.tBodyGyroMagnitude-std	
 11.tBodyGyroJerkMagnitude-mean	
